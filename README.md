@@ -59,6 +59,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/jandin88/jandin88/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/jandin88/jandin88/output/snakee.svg" alt="Snake animation" />
 
 ###
