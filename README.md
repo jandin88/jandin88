@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">Olá sou Janderson<br><br>- 🔭Trabalho como implantador do sistema Zendesk mas busco oportunidade na área de dev<br>- 📚 Estou estudando Java</p>
+<p align="left">Olá sou Janderson<br><br>- Busco minha primeira oportunidade na área de desenvolvimento de preferencia como BackEnd<br>- 📚 Estou estudando Java</p>
 
 ###
 
