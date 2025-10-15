@@ -29,7 +29,8 @@
 
 ###
 
-<p align="left">Olá sou Janderson<br><br>- Busco minha primeira oportunidade na área de desenvolvimento de preferencia como BackEnd<br>- 📚 Estou estudando Java</p>
+<p align="left">Olá sou Janderson<br><br>- Busco minha primeira oportunidade na área de desenvolvimento de preferencia como BackEnd<br>- 📚 Estou estudando Java <br>- 👉 [**GitHub EZTRON – Janderson**](https://github.com/JandersonEZ)
+</p>
 
 ###
 
